@@ -1,4 +1,7 @@
 # App Delivery
  Restaurants in Buenos Aires
+ 
+ 
+## Screenshots
 
-![1](https://github.com/EktwrW/App-Delivery-/blob/master/assets/screenshot/1.jpg) ![2](https://github.com/EktwrW/App-Delivery-/blob/master/assets/screenshot/2.jpg)
+<img src="assets/screenshot/1.jpg" height="500em" /><img src="assets/screenshot/2.jpg" height="500em" />
