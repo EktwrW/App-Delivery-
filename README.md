@@ -4,4 +4,4 @@
  
 ## Screenshots
 
-<img src="assets/screenshot/1.jpg" height="500em" /><img src="assets/screenshot/2.jpg" height="500em" />
+<img src="assets/screenshot/1.jpg" height="700em" />  <img src="assets/screenshot/2.jpg" height="700em" />
